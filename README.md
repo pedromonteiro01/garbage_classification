@@ -1,6 +1,6 @@
 # Garbage Classification
 
-First FAA project that consists of identifying and classifying images in different types of garbage. <br>Initially the dataset had 6 different classes, but we chose to work with only 3:
+First FAA project that consists of identifying and classifying images of different types of garbage. <br>Initially the dataset had 6 different classes, but we chose to work with only 3:
  - glass
  - paper
  - plastic.
