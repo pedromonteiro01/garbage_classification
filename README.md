@@ -17,3 +17,7 @@ Different machine learning models implemented:
  - Decision Tree
  - Random Forest
  - Neural Networks
+ 
+ Team:
+ - [Pedro Monteiro](https://github.com/pedromonteiro01)
+ - [Eduardo Fernandes](https://github.com/eduardofernandes11)
